@@ -1,0 +1,18 @@
+{
+  "name": "web3-telegram-bot",
+  "version": "0.0.1",
+  "description": "New block notifications...",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module",
+  "repository": "https://github.com/AndreWeb3/Node.js-Examples",
+  "author": "AW3",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.1",
+    "node-telegram-bot-api": "^0.57.0",
+    "web3": "^1.7.3"
+  }
+}
